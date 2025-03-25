@@ -1,1 +1,1 @@
-# JMU
+# JMU-python
